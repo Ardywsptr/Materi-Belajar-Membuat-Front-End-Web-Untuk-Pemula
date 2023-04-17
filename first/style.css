@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    font-size: 15px;
+    margin: 8px;
+    padding: 3px;
+}
+
+main{
+    padding: 2px;
+}
